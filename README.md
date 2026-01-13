@@ -32,12 +32,13 @@ Questa modalità mette alla prova la capacità di rispondere rapidamente a doman
   - **Triste** quando si esauriscono tutte le vite.
 - Lo sfondo è unico e uniforme per tutta la modalità.
 - Il punteggio viene visualizzato in modo evidente al termine del gioco.
+- Il punteggio massimo è di 50 risposte corrette
 
 ---
 
 ## Caratteristiche principali
 
-- **Design interattivo**: ogni modalità ha sfondi e personaggi unici, rendendo il gioco più coinvolgente.
+- **Design interattivo**: ogni modalità ha sfondi e personaggi.
 - **Domande dinamiche**: tutte le domande sono recuperate in tempo reale dall’**Open Trivia Database**.
 - **Sistema punti e vite**: punteggio visualizzato durante il gioco e vite rappresentate con icone grafiche.
 - **Vignette fumetto**: le domande appaiono come se fossero dette dai personaggi stessi.
@@ -53,5 +54,3 @@ Questa modalità mette alla prova la capacità di rispondere rapidamente a doman
 - **Assets grafici personalizzati**: immagini dei personaggi, sfondi e icone delle vite.
 
 ---
-
-Trivia Arena combina divertimento, conoscenza e un’interfaccia coinvolgente per creare un’esperienza di quiz unica e personalizzata.
