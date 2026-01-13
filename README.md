@@ -54,3 +54,19 @@ Questa modalità mette alla prova la capacità di rispondere rapidamente a doman
 - **Assets grafici personalizzati**: immagini dei personaggi, sfondi e icone delle vite.
 
 ---
+## Importazione del gioco sul pc
+Per eseguire Trivia Arena sul tuo dispositivo Android (o emulatori), segui questi passaggi:
+- **Prerequisiti:**
+- Assicurati di avere Flutter installato sul PC.
+- Installa Android Studio o un altro IDE compatibile con Flutter.
+- Verifica che l’ambiente Flutter sia configurato correttamente con flutter doctor.
+- **Scarica il proggetto:**
+- Copia tutte le cartelle e i file del progetto.
+- Non dimenticare la cartella assets/images, che contiene tutti gli sfondi, i personaggi e le icone del gioco.
+- Apri il progetto in Android Studio
+- Seleziona “Open an existing project” e punta alla cartella principale del gioco.
+- Esegui il gioco
+- Collega un telefono Android via USB (attiva la modalità sviluppatore) oppure usa un emulatore Android.
+- Premi il pulsante “Run”.
+- L’app verrà compilata e avviata sul dispositivo scelto.
+
