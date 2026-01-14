@@ -1,6 +1,6 @@
 # Trivia Arena
 
-**Trivia Arena** è un'applicazione Flutter per quiz interattivi, pensata per mettere alla prova la conoscenza generale degli utenti in maniera divertente e dinamica. L'app offre due modalità di gioco principali: **Il Cervellone** e **Sopravvivenza**, ciascuna con caratteristiche uniche e un design personalizzato.
+**Trivia Arena** è un'applicazione Flutter per quiz interattivi. L'app offre due modalità di gioco principali: **Il Cervellone** e **Sopravvivenza**.
 
 ---
 
@@ -10,12 +10,12 @@
 Questa modalità si concentra sulle **categorie tematiche**, permettendo di scegliere il quiz in base ai propri interessi.
 
 - **Categorie disponibili:**
-  - **Cinema**: sfondo cinema e professore Bregistra.
-  - **Scienza**: sfondo laboratorio e professore MLab.
-  - **Sport**: sfondo campo e professore Sport.
-  - **Videogiochi**: sfondo casa e personaggio Donkey Videogame.
-  - **Storia**: sfondo storico e professore LStoria.
-  - **Libri**: sfondo italiano e professore Pita.
+  - **Cinema**.
+  - **Scienza**.
+  - **Sport**.
+  - **Videogiochi**.
+  - **Storia**.
+  - **Libri**.
 - Ogni categoria ha uno **sfondo dedicato** e un **personaggio** (professore) che introduce le domande.
 - Ogni domanda corretta vale **1 punto**.
 - Non ci sono vite: il giocatore procede fino alla fine del quiz.
